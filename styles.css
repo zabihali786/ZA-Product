@@ -72,6 +72,9 @@ nav {
     margin-bottom: 10px;
     font-family: fantasy;
     letter-spacing: 3px;
+	border: 5px solid black;
+	border-radius: 20px;
+}
 }
 
 /* Content container for image and description */
@@ -97,7 +100,8 @@ nav {
 .image-description {
     margin-top: 10px;
     font-size: 16px;
-    color: #333;
+    color: black;
+    font-family: cursive;
 }
 
 /* Media Queries for Responsiveness */
